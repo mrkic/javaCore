@@ -1,6 +1,6 @@
 package Implementation;
 
-public final class Pair extends Object {
+public final class Pair {
     private Object first;
     private Object second;
     public Pair(Object first, Object second){
